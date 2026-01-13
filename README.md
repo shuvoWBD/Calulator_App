@@ -81,4 +81,4 @@ try-except blocks prevent runtime errors during evaluation, square root, and per
 
  ✔ Display rendering handled by the update_label() function
 
-.Styling handled through predefined color constants
+ ✔ Styling handled through predefined color constants
