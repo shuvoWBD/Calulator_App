@@ -9,10 +9,12 @@ This is a Python-based calculator developed using the Tkinter GUI library. The c
 
 ✨**Key Features:**
 
-1.Scientific-Style Calculator Interface:
+1.**Scientific-Style Calculator Interface:**
+
 The calculator follows a familiar layout similar to modern mobile calculators, making it intuitive for users.
 
-2.Basic and Advanced Operations:
+2.**Basic and Advanced Operations:**
+
 It supports:
 
  ✔ Basic arithmetic: addition, subtraction, multiplication, division
