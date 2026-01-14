@@ -1,14 +1,13 @@
 # Calulator_App
 
-Calculator_App:
 A simple and user friendly calculator app built with Python and Tkinter for performing everyday calculations.
 
-🚀Project Overview:
+🚀**Project Overview:**
 This is a Python-based calculator developed using the Tkinter GUI library. The calculator performs standard arithmetic operations such as +, −, ×, ÷, percentage, square root, and positive/negative toggle. It displays results directly on the interface and is suitable for beginners learning Python GUI development.
 
 
 
-✨Key Features:
+✨**Key Features:**
 
 1.Scientific-Style Calculator Interface:
 The calculator follows a familiar layout similar to modern mobile calculators, making it intuitive for users.
@@ -49,7 +48,7 @@ This improves usability and visual clarity.
 
 
 
-🛠️Technical Architecture:
+🛠️**Technical Architecture:**
 
 1.Programming Language and Libraries:
 
